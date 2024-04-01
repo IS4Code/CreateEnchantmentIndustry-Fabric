@@ -30,5 +30,6 @@
     [
       "experience_recycled"
     ]
-  ]
+  ],
+  "sends_telemetry_event": true
 }
