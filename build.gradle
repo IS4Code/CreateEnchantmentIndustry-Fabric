@@ -114,6 +114,12 @@ mixin {
     debug.export = true
 }
 
+idea{
+    module {
+        downloadJavadoc = true
+        downloadSources = true
+    }
+}
 jar {
     archiveClassifier = 'slim'
     manifest {
